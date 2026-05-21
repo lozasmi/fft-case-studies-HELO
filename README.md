@@ -84,7 +84,7 @@ Pada saat ini, Mahasiswa B masih belum menjadi kontributor. Otoritas penuh kini 
 * Mereka mengklik *pull request* yang diajukan oleh Mahasiswa B untuk meninjau perubahan kode tersebut.
 * Jika pekerjaan tersebut dinilai sudah baik, Mahasiswa A mengklik tombol **Merge pull request** yang berwarna hijau dan melakukan konfirmasi.
 
-**Hasil Akhir 🎉**
+**Hasil Akhir**
 
 Tepat pada saat Mahasiswa A mengklik tombol *Merge* tersebut, dua hal akan terjadi secara otomatis:
 
